@@ -157,7 +157,7 @@ Función “displatInstagramData”: Finalmente, se llama a la función “displ
 
 
 
-Asincronismo <br>
+# Asincronismo <br>
 La página elegida en este caso es la red social Instagram por ser una plataforma amplia para aplicar conceptos de asincronismo, ya que Instagram utiliza muchas operaciones asíncronas para cargar imágenes, 
 videos, comentarios y otra información dinámica de manera eficiente mientras el usuario navega por la aplicación.
  
